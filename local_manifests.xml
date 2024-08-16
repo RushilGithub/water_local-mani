@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Generated using cranckv3/actions_generate_local_manifests -->
+
+    <!-- Remotes -->
+    <remote name="cranckv3" fetch="https://github.com/cranckv3" clone-depth="1" />
+
+    <!-- Removals -->
+    <remove-project name="LineageOS/android_hardware_mediatek" />
+
+    <!-- Repos -->
+    <project path="device/xiaomi/water" name="_device_xiaomi_water_lineage" remote="cranckv3" revision="13" />
+    <project path="vendor/xiaomi/water" name="vendor_xiaomi_water" remote="cranckv3" revision="13" />
