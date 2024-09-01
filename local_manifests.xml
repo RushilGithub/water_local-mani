@@ -11,3 +11,4 @@
     <!-- Repos -->
     <project path="device/xiaomi/water" name="_device_xiaomi_water_lineage" remote="cranckv3" revision="13" />
     <project path="vendor/xiaomi/water" name="vendor_xiaomi_water" remote="cranckv3" revision="13" />
+    <project path="device/xiaomi/water" name="prebuilt" remote="cranckv3" revision="main" />
