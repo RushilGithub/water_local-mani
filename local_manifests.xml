@@ -12,3 +12,4 @@
     <project path="device/xiaomi/water" name="android_device_water_lineage" remote="RushilGithub" revision="13" />
     <project path="vendor/xiaomi/water" name="vendor_xiaomi_water" remote="RushilGithub" revision="13" />
     <!--<project path="device/xiaomi/water" name="prebuilt" remote="RushilGithub" revision="main" />-->
+</manifest>
