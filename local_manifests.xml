@@ -3,12 +3,12 @@
 <!-- Generated using cranckv3/actions_generate_local_manifests -->
 
     <!-- Remotes -->
-    <remote name="cranckv3" fetch="https://github.com/cranckv3" clone-depth="1" />
+    <remote name="cranckv3" fetch="https://github.com/RushilGithub" clone-depth="1" />
 
     <!-- Removals -->
     <remove-project name="LineageOS/android_hardware_mediatek" />
 
     <!-- Repos -->
-    <project path="device/xiaomi/water" name="_device_xiaomi_water_lineage" remote="cranckv3" revision="13" />
-    <project path="vendor/xiaomi/water" name="vendor_xiaomi_water" remote="cranckv3" revision="13" />
-    <project path="device/xiaomi/water" name="prebuilt" remote="cranckv3" revision="main" />
+    <project path="device/xiaomi/water" name="android_device_water_lineage" remote="RushilGithub" revision="13" />
+    <project path="vendor/xiaomi/water" name="vendor_xiaomi_water" remote="RushilGithub" revision="13" />
+    <!--<project path="device/xiaomi/water" name="prebuilt" remote="RushilGithub" revision="main" />-->
