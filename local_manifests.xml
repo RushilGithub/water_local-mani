@@ -5,8 +5,8 @@
     <!-- Remotes -->
     <remote name="cranckv3" fetch="https://github.com/RushilGithub" clone-depth="1" />
 
-    <!-- Removals -->
-    <remove-project name="LineageOS/android_hardware_mediatek" />
+    <!-- Removals
+    <remove-project name="LineageOS/android_hardware_mediatek" />-->
 
     <!-- Repos -->
     <project path="device/xiaomi/water" name="android_device_water_lineage" remote="RushilGithub" revision="13" />
